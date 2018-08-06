@@ -67,7 +67,7 @@ end
 # Store appId in variable.
 appId = response['appId']
 
-# alk with the computer using chat API.
+# Talk with the computer using chat API.
 if true == PROXY
   # With proxy
   http = proxy.new(uri2.host, uri2.port)
