@@ -1,5 +1,5 @@
 # Author       : Yoshihiko Hara <goronyanko.h@gmail.com>
-# last updated : 2018/08/03
+# last updated : 2018/08/06
 # Overview     : Conversation script using NTT docomo chat API.
 #  * For an overview of chatting API, refer to the following URL.
 #    https://dev.smt.docomo.ne.jp/?p=docs.api.page&api_name=natural_dialogue&p_name=api_4_usage_scenario#tag01
